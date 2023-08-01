@@ -7,20 +7,25 @@ Los botones que se usan son:
 - (P)Puño, (K)Patada 
 
 Golpes de nuestros personajes:
+- Tonyn Stallone
 ```
-            |        Tonyn Stallone         |   |     Arnaldor Shuatseneguer    |
-|------------------------------|---|-------------------------------|
-| Combinación  | Energía que    |   | Combinación  | Energía que    |
-|              | quita          |   |              | quita          |
-|--------------|---------------|   |--------------|---------------|
-| DSD + P      | 3             |   | SA + K       | 3             |
-| SD + K       | 2             |   | ASA + P      | 2             |
-| P o K        | 1             |   | P o K        | 1             |
-|--------------|---------------|   |--------------|---------------|
-| Nombre del   | Taladoken     |   | Nombre del   | Remuyuken     |
-| movimiento   |               |   | movimiento   |               |
-|--------------|---------------|   |--------------|---------------|
-|              | Puño o Patada |   |              | Puño o Patada |
+
+| Combinación | Energía que quita | Nombre del movimiento |
+|------------|-------------------|----------------------|
+| DSD + P    | 3                 | Taladoken            |
+| SD + K     | 2                 | Remuyuken            |
+| P o K      | 1                 | Puño o Patada        |
+
+```
+
+-  Arnaldor Shuatseneguer:
+```
+| Combinación | Energía que quita | Nombre del movimiento |
+|------------|-------------------|----------------------|
+| SA + K     | 3                 | Remuyuken            |
+| ASA + P    | 2                 | Taladoken            |
+| P o K      | 1                 | Puño o Patada        |
+
 ```
 
 ### Información importante: 
