@@ -7,7 +7,7 @@ Los botones que se usan son:
 - (P)Puño, (K)Patada 
 
 Golpes de nuestros personajes:
-``````
+```
             |        Tonyn Stallone         |   |     Arnaldor Shuatseneguer    |
 |------------------------------|---|-------------------------------|
 | Combinación  | Energía que    |   | Combinación  | Energía que    |
@@ -45,9 +45,9 @@ Para este desafío: Desarrolla una solución que relata la pelea e informe el re
 
 ### Por ejemplo para el siguiente json de pelea: 
 
-``````
+```
 {"player1":{"movimientos":["D","DSD","S","DSD","SD"],"golpes":["K","P","","K","P"]},"player2": {"movimientos":["SA","SA","SA","ASA","SA"],"golpes":["K","","K","P","P"]}} 
-``````
+```
 
 - Tonyn avanza y da una patada
 - Arnaldor conecta un Remuyuken
